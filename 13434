@@ -22,8 +22,7 @@
         console.log(typeof num);
         console.log("1234123421341234")
 
-        var num='2222';
-        console.log(num);
+       
 
 
     </script>
