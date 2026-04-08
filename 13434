@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        var num=111;
+        var num1=222;
+        // javascript当中的变量必须先定义后才能使用
+        // 否则就会报错
+        console.log("num*num1="+(num*num1));
+
+        // 先定义后如果不赋值，程序不会报错，程序正常运行，
+        // 结果是undefined;
+        console.log(num);
+        console.log(typeof num);
+        console.log("1234123421341234")
+
+        var num='2222';
+        console.log(num);
+
+
+    </script>
+
+</body>
+
+</html>
