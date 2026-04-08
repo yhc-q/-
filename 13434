@@ -23,6 +23,7 @@
         console.log("1234123421341234")
 
         var num='2222';
+        var num='1111'
         console.log(num);
 
 
