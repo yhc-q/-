@@ -24,6 +24,7 @@
 
         var num='2222';
         var num='1111'
+        console.log("我是徐紫宜");
         console.log(num);
 
 
